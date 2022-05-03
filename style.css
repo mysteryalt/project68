@@ -1,0 +1,35 @@
+.my_nav_bar {
+position: sticky;
+top: 0;
+z-index: 99999;
+}
+
+#school {
+z-index: 9;
+height: 100%;
+width: 100%;
+bottom: 0;
+display: table;
+text-align: center;
+ background: linear-gradient(#75f9a0 0%, #46fff9 100%);
+}
+#name {
+font-family: fantasy;
+font-size: 30px;
+}
+
+h2 {
+font-size: 20px;
+font-family: monospace;
+color: white;
+
+}
+
+#contactus {
+background-color: darkmagenta;
+}
+
+p {
+font-family: cursive;
+padding: 20px;
+}
